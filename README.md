@@ -1,2 +1,2 @@
 Snake game with Javascript
-![alt text](https://github.com/[kjpavs]/[snake-game-with-javascript]/blob/[branch]/image.png?raw=true)
+![alt text](https://github.com/[kjpavs]/[snake-game-with-javascript]/blob/[main]/image.png?raw=true)
